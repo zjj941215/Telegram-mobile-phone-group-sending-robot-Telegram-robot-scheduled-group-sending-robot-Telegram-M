@@ -276,7 +276,7 @@ kill -9 进程ID
 - 检查debug.log查找错误
 
 ## 联系方式
-体验机器人 https://t.me/HM888Bot 
+
 
 如需技术支持或咨询服务，请联系：https://t.me/hmboos 
 
